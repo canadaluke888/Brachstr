@@ -76,5 +76,5 @@ pip install -r requirements.txt
 Feel free to contribute to Brachstr! If you encounter any issues or have feature suggestions, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](Brachstr/LICENSE) file for details.
 
